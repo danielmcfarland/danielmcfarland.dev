@@ -1,0 +1,4 @@
+baseURL = 'https://danielmcfarland.dev/'
+languageCode = 'en-gb'
+title = 'Daniel McFarland'
+theme = 'typo'
