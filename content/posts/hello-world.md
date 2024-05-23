@@ -1,12 +1,9 @@
-baseURL = 'https://danielmcfarland.dev/'
-languageCode = 'en-gb'
-title = 'Daniel McFarland'
-theme = 'typo'
++++
+title = 'Hello World'
+date = 2024-05-19T14:17:36+01:00
+draft = true
++++
 
-[params]
-#homeIntroTitle = 'Hi!'
-
-homeIntroContent = """
 Hi, I'm Daniel McFarland, and I'm a Senior Software Developer at Scaffold Digital.
 
 Originally from Dungannon, Northern Ireland, UK, I currently live in Craigavon, Northern Ireland, UK.
@@ -14,19 +11,6 @@ Originally from Dungannon, Northern Ireland, UK, I currently live in Craigavon, 
 I may use this site as a method of sharing things I've learned or find interesting. My interests include Technology  👨🏼‍💻‍, Coffee ☕️ and Running 🏃🏼‍♂️
 
 Feel free to reach out and contact me at <a href="mailto:hi@danielmcfarland.dev">hi@danielmcfarland.dev</a> or at any of the social links below.
-"""
-
-[[params.menu]]
-name = "home"
-url = "/"
-
-#[[params.menu]]
-#name = "about"
-#url = "/about"
-
-[[params.menu]]
-name = "posts"
-url = "/posts"
 
 [[params.social]]
 name = "linkedin"
