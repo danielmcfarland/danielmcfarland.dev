@@ -29,9 +29,5 @@ name = "strava"
 url = "https://www.strava.com/athletes/69023309/"
 
 [[params.social]]
-name = "bluesky"
-url = "https://bsky.app/profile/danielmcfarland.bsky.social/"
-
-[[params.social]]
 name = "twitter"
 url = "https://twitter.com/daniel.mcf/"
