@@ -1,0 +1,1 @@
+{"date":"2024-05-28T21:42:46Z","deleted":false,"draft":false,"h":"h-entry","properties":{"published":["2024-05-28T21:42:46Z"],"bookmark-of":[""],"post-status":["published"]},"type":"bookmark","slug":"2024/05/bsNgJ","client_id":"https://app.danielmcfarland.dev"}
