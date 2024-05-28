@@ -1,0 +1,1 @@
+{"date":"2024-05-28T22:28:28+01:00","deleted":false,"draft":false,"h":"h-entry","properties":{"published":["2024-05-28T22:28:28+01:00"],"bookmark-of":["https://gohugo.io/templates/pagination/"],"post-status":["published"]},"type":"bookmark","slug":"IRfFm","client_id":"https://app.danielmcfarland.dev"}
