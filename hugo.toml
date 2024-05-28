@@ -7,6 +7,7 @@ theme = 'typo'
 data = "/data/:slug/"
 
 [params]
+paginationSize = 100
 #homeIntroTitle = 'Hi!'
 
 homeIntroContent = """
