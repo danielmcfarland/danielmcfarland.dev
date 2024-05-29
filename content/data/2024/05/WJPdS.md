@@ -1,0 +1,1 @@
+{"date":"2024-05-29T22:17:29Z","deleted":false,"draft":false,"h":"h-entry","properties":{"published":["2024-05-29T22:17:29Z"],"bookmark-of":["https://mull.net/mastodon"],"post-status":["published"]},"type":"bookmark","slug":"2024/05/WJPdS","client_id":"https://app.danielmcfarland.dev"}
