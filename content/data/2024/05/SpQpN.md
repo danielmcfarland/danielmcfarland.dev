@@ -1,1 +1,0 @@
-{"date":"2024-05-29T22:09:54Z","deleted":false,"draft":true,"h":"h-entry","properties":{"published":["2024-05-29T22:09:54Z"],"bookmark-of":["https://github.com/danielmcfarland/danielmcfarland.dev/blob/main/content/data/2024/05/LzyDv.md"],"post-status":["draft"]},"type":"bookmark","slug":"2024/05/SpQpN","client_id":"https://app.danielmcfarland.dev"}

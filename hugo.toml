@@ -6,6 +6,9 @@ theme = 'typo'
 [permalinks]
 data = "/data/:slug/"
 
+[taxonomies]
+type = "type"
+
 [params]
 paginationSize = 100
 #homeIntroTitle = 'Hi!'
@@ -29,6 +32,10 @@ url = "/"
 [[params.menu]]
 name = "posts"
 url = "/posts"
+
+[[params.menu]]
+name = "bookmarks"
+url = "/type/bookmarks"
 
 [[params.social]]
 name = "linkedin"

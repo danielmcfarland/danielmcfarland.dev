@@ -1,1 +1,0 @@
-{"date":"2024-05-29T22:11:38Z","deleted":false,"draft":true,"h":"h-entry","properties":{"published":["2024-05-29T22:11:38Z"],"bookmark-of":[""],"post-status":["draft"]},"type":"bookmark","slug":"2024/05/VJvIa","client_id":"https://app.danielmcfarland.dev"}
