@@ -1,0 +1,1 @@
+{"date":"2024-05-30T22:12:38Z","deleted":false,"draft":false,"h":"h-entry","properties":{"published":["2024-05-30T22:12:38Z"],"bookmark-of":["https://ides.dev/notes/laravel-artisan-command-dependency-injection/"],"post-status":["published"]},"type":"bookmarks","slug":"2024/05/jCGmN","client_id":"https://app.danielmcfarland.dev"}
