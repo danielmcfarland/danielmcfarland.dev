@@ -1,0 +1,1 @@
+{"date":"2024-05-30T22:12:11Z","deleted":false,"draft":false,"h":"h-entry","properties":{"published":["2024-05-30T22:12:11Z"],"bookmark-of":["https://ashallendesign.co.uk/blog/encrypting-queued-classes-in-laravel"],"post-status":["published"]},"type":"bookmarks","slug":"2024/05/ltaaN","client_id":"https://app.danielmcfarland.dev"}
