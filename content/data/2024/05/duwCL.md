@@ -1,0 +1,1 @@
+{"date":"2024-05-30T12:40:58Z","deleted":false,"draft":false,"h":"h-entry","properties":{"published":["2024-05-30T12:40:58Z"],"bookmark-of":["https://x.com/jackellis/status/1795570067297759491?s=12\u0026t=Wc3p0RJTnwGBZPvuxcUpYg"],"post-status":["published"]},"type":"bookmark","slug":"2024/05/duwCL","client_id":"https://app.danielmcfarland.dev"}
