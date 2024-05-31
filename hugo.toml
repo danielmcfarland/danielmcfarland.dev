@@ -16,7 +16,7 @@ paginationSize = 100
 homeIntroContent = """
 Hi, I'm Daniel McFarland, and I'm a Senior Software Engineer at Scaffold Digital.
 
-I may use this site as a method of sharing things I've learned or find interesting. My interests include Technology  👨🏼‍💻‍, Coffee ☕️ and Running 🏃🏼‍♂️
+I may use this site as a method of sharing things I've learned or find interesting. My interests include Technology 👨🏼‍💻‍, Coffee ☕️ and Running 🏃🏼‍♂️
 
 Feel free to reach out and contact me at <a href="mailto:hi@danielmcfarland.dev">hi@danielmcfarland.dev</a> or at any of the social links below.
 """
@@ -29,9 +29,9 @@ url = "/"
 #name = "about"
 #url = "/about"
 
-[[params.menu]]
-name = "posts"
-url = "/posts"
+#[[params.menu]]
+#name = "posts"
+#url = "/posts"
 
 [[params.menu]]
 name = "bookmarks"
