@@ -1,0 +1,1 @@
+{"date":"2024-06-04T13:00:02Z","deleted":false,"draft":false,"h":"h-entry","properties":{"published":["2024-06-04T13:00:02Z"],"bookmark-of":["https://petermcaree.com/posts/how-to-build-spa-deployment-using-aws-cdk/?utm_source=tldrdevops"],"post-status":["published"]},"type":"bookmarks","slug":"2024/05/xkVSA","client_id":"https://app.danielmcfarland.dev"}
