@@ -1,0 +1,1 @@
+{"date":"2024-06-10T14:40:47Z","deleted":false,"draft":false,"h":"h-entry","properties":{"published":["2024-06-10T14:40:47Z"],"bookmark-of":["https://dev.to/zemse/setup-gpg-on-macos-2iib\r\nhttps://dev.to/zemse/setup-gpg-on-macos-2iib"],"post-status":["published"]},"type":"bookmarks","slug":"2024/05/oABqf","client_id":"https://app.danielmcfarland.dev"}
